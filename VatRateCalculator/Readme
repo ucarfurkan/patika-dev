@@ -1,0 +1,5 @@
+Value-Added Tax Amount Calculator
+If amount is between 0 and 1000, VAT Rate is 18%;
+if amount is more than 1000, VAT Rate is 8%.
+
+https://app.patika.dev/furkanucar
